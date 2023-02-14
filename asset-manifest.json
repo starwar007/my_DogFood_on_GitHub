@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my_DogFood_on_GitHub/static/css/main.40ae0bc9.css",
+    "main.js": "/my_DogFood_on_GitHub/static/js/main.05027e82.js",
+    "static/media/logo.svg": "/my_DogFood_on_GitHub/static/media/logo.4f9d699de55eb25e196ecc4c87a15a5e.svg",
+    "static/media/instagram.svg": "/my_DogFood_on_GitHub/static/media/instagram.54cbf40d1b69370b6a2ec029eefc269c.svg",
+    "static/media/vk.svg": "/my_DogFood_on_GitHub/static/media/vk.5a6b12bf142f67e2138c1e6c69952975.svg",
+    "static/media/viber.svg": "/my_DogFood_on_GitHub/static/media/viber.b4234cd18a8ffefb8ebb172506996cea.svg",
+    "static/media/whatsapp.svg": "/my_DogFood_on_GitHub/static/media/whatsapp.51cbd71440eaa90946070b8848c12129.svg",
+    "static/media/save.svg": "/my_DogFood_on_GitHub/static/media/save.4ecce3f76a425b9cc334007a294e0108.svg",
+    "static/media/ic-close-input.svg": "/my_DogFood_on_GitHub/static/media/ic-close-input.54db44869b83261dae0b721cf5826a4b.svg",
+    "index.html": "/my_DogFood_on_GitHub/index.html",
+    "static/media/ic-search.svg": "/my_DogFood_on_GitHub/static/media/ic-search.9da1e3f9e0d0d0b38f3c1ac2041e5f49.svg",
+    "static/media/telegram.svg": "/my_DogFood_on_GitHub/static/media/telegram.95a5ca8a1ae0a13c18da2bca3f249bf5.svg",
+    "main.40ae0bc9.css.map": "/my_DogFood_on_GitHub/static/css/main.40ae0bc9.css.map",
+    "main.05027e82.js.map": "/my_DogFood_on_GitHub/static/js/main.05027e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40ae0bc9.css",
+    "static/js/main.05027e82.js"
+  ]
+}
